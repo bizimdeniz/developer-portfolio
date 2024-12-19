@@ -1,6 +1,6 @@
 export const contactsData = {
     email: 'hello@denizco.de',
-    phone: '+447510448252',
+    phone: '+44751044xxxx',
     address: 'Monticello Way, Coventry - CV4 9WA, United Kingdom',
     github: 'https://github.com/bizimdeniz',
     facebook: 'https://www.facebook.com/hrndeniz',
