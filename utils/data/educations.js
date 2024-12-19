@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
+    title: "department of Business - Bachelor Degree",
     duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    institution: "Anadolu University of Turkiye",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Advertising and Publicity - 	Associate degree",
+    duration: "2009 - 2012",
+    institution: "Suleyman Demirel University of Turkiye",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "High School Certificate",
+    duration: "2002 - 2005",
+    institution: "Kırıkhan High School of Turkiye",
   }
 ]
